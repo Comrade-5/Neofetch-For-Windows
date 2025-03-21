@@ -1,3 +1,5 @@
+# Just copy all of this
+
 
 function Get-SystemInfo {
     # Microsoft logo (ASCII art) with blue color
