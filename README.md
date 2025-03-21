@@ -1,5 +1,4 @@
-# Neofetch-For-Windows
-Neofetch Script for windows
+
 function Get-SystemInfo {
     # Microsoft logo (ASCII art) with blue color
     $microsoftLogo = @"
@@ -70,5 +69,4 @@ function Get-SystemInfo {
     Write-Host "----------------------------------------" -ForegroundColor Blue
 }
 
-# Automatically run the function to display system info, suppressing the command output
 $null = Get-SystemInfo
