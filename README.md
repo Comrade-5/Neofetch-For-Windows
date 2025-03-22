@@ -2,13 +2,13 @@
 
 
 function Get-SystemInfo {
-    # Microsoft logo (ASCII art) with blue color
+    # Microsoft logo (ASCII art)
     $microsoftLogo = @"
-████  ████
-████  ████
+ ████  ████
+ ████  ████
 
-████  ████
-████  ████
+ ████  ████
+ ████  ████
 "@
     
     # Print the logo in blue
